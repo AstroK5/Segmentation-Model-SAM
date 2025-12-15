@@ -20,3 +20,8 @@ pip install torch torchvision
 
 # Install the Segment Anything library and utility packages
 pip install segment-anything opencv-python Pillow
+```
+
+## ⚖️ Credits
+
+This example code is built around the **Segment Anything Model (SAM)**, which was developed and released by **Meta AI**.
